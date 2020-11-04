@@ -49,7 +49,8 @@ public class VideoFace {
         // 3- 本地图片人脸识别，识别成功并保存人脸图片到本地
         face();
         
-        System.out.println("test");
+        System.out.println("test push" +
+                "");
 
         // 4- 比对本地2张图的人脸相似度 （越接近1越相似）
         String basePicPath = "D:\\Documents\\Pictures\\";
